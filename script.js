@@ -60,7 +60,7 @@ const IMAGEN_GEMINI_API_KEY = "AIzaSyBZxXWl9s2AeSCzMrfoEfnYWpGyfvP7jqs"; // <---
 console.log(Date.now(), "script.js: IMAGEN_GEMINI_API_KEY value set at top level.");
 
 // Razorpay Key ID (REPLACE WITH YOUR ACTUAL RAZORPAY LIVE KEY ID)
-const RAZORPAY_KEY_ID = "rzp_live_YOUR_LIVE_KEY_ID_HERE"; // <--- THIS IS THE LINE FOR YOUR PUBLIC KEY ID - ENSURE THIS IS YOUR LIVE KEY ID
+const RAZORPAY_KEY_ID = "rzp_live_Sfj1AqiaMdhJLD"; // <--- THIS IS THE LINE FOR YOUR PUBLIC KEY ID - ENSURE THIS IS YOUR LIVE KEY ID
 console.log(Date.now(), "script.js: RAZORPAY_KEY_ID set at top level.");
 
 
